@@ -18,7 +18,7 @@ Copyright (C) 2018 WowThemes.net.
 
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-new-feature).
-- Open a pull request on GitHub and describe the feature or fix. 
+- Open a pull request on GitHub and describe the feature or fix.
 
 Thank you!
 
