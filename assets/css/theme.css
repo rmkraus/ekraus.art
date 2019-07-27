@@ -243,9 +243,9 @@ article .card-body {
     position: relative;
 }
 .card-pin.raco:hover .fa:before {
-    
+
 }
-.car-pin.raco:hover .fa:before {    
+.car-pin.raco:hover .fa:before {
      -webkit-animation: pulse 2s ease-in;
     -moz-animation: pulse 2s ease-in;
      animation: pulse 2s ease-in;
@@ -269,6 +269,9 @@ article .card-body {
     border-radius: 2px;
     box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 }
+.PageNaviation {
+	display: none;
+}
 .PageNavigation a {
     position: fixed;
     top: 47%;
@@ -286,13 +289,13 @@ article .card-body {
     height:60px;
     line-height:60px;
     border-radius:50%;
-    
+
 }
 .PageNavigation a:hover {
     color:#333;
 }
-a.prev {    
-    left: 100px;    
+a.prev {
+    left: 100px;
 }
 a.next {
     right: 100px;
